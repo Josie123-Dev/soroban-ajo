@@ -10,13 +10,10 @@ Cargo.lock
 *.optimized.wasm
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDEs
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -72,3 +69,4 @@ Thumbs.db
 .kiro/
 !.kiro/specs/
 .vercel
+config.bat
